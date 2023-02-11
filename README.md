@@ -1,4 +1,4 @@
-# JavaScript-Day-to-Day
+# JavaScript vs Python
 
 
 
